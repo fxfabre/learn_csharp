@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Companies xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Company Name="Margoconseil">
+    <Address PostalCode="92057">
+      <Street>76 route de la demi lune</Street>
+      <City>Paris la défense CEDEX</City>
+      <Country>France</Country>
+    </Address>
+    <Address PostalCode="33000">
+      <Street>autre rue</Street>
+      <City>Bordeaux</City>
+      <Country>France</Country>
+    </Address>
+    <Filliales>
+      <Nom>Margoconsulting</Nom>
+      <Nom>Code case software</Nom>
+      <Nom>Une future entreprise qui va conquérir le monde</Nom>
+    </Filliales>
+  </Company>
+  <Company Name="C2">
+    <Filliales />
+  </Company>
+</Companies>

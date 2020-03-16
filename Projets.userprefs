@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="ListeChainee/ListeChainee.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BergerMT/MovingItem/Farmer.cs">
+    <Files>
+      <File FileName="BergerMT/MovingItem/Farmer.cs" Line="15" Column="9" />
+      <File FileName="BergerMT/MovingItem/AMovingItem.cs" Line="1" Column="1" />
+      <File FileName="BergerMT/MovingItem/Cabbage.cs" Line="1" Column="1" />
+      <File FileName="BergerMT/MovingItem/Goat.cs" Line="9" Column="47" />
+      <File FileName="BergerMT/MovingItem/Wolf.cs" Line="7" Column="47" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

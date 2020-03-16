@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Calculatrice.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calculette.cs">
+    <Files>
+      <File FileName="Calculette.cs" Line="71" Column="9" />
+      <File FileName="Program.cs" Line="10" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
